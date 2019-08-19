@@ -1,0 +1,12 @@
+numpy==1.16.4
+pandas
+datetime
+scipy
+plotly
+sklearn
+scikit-learn
+dash
+dash_core_components
+dash_html_components
+dash_bootstrap_components
+dash_table
